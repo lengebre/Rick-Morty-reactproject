@@ -1,0 +1,22 @@
+.gallery {
+  /* background: #ddd;
+  display: flex;
+  max-height: 720px;
+  max-width: auto;
+  margin: 40px auto;
+  margin-left: 20px;
+  margin-right: 20px; */
+
+  max-height: 500px;
+  max-width: 1024px;
+  margin: 40px auto;
+  display: flex;
+}
+
+.gallery__left {
+  flex: 1;
+}
+
+.gallery__right {
+  flex: 1;
+}

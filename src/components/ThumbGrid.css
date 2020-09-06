@@ -1,0 +1,10 @@
+.thumbGrid {
+  display: flex;
+  height: 40%;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.thumbGrid:hover {
+  cursor: pointer;
+}

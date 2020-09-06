@@ -1,0 +1,19 @@
+.contentRight {
+  background-color: black;
+  height: 100%;
+}
+
+.contentRight > h2 {
+  margin: 0;
+  color: white;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.contentRight > p {
+  margin: 0;
+  color: white;
+  padding-left: 20px;
+  padding-top: 10px;
+}

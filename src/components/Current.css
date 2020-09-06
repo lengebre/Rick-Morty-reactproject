@@ -1,0 +1,10 @@
+.current {
+  height: 60%;
+  width: 100%;
+  background-color: #eee;
+}
+
+.current > img {
+  width: 100%;
+  height: 100%;
+}

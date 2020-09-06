@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Mo Engel Rick&Morty",
+  "name": "Mo Engel Rick and Morty Character Gallery",
   "icons": [
     {
       "src": "favicon.ico",
